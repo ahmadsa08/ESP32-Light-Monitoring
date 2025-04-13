@@ -20,11 +20,6 @@ An IoT project that reads real-time light intensity using a Light Sensor v1.2 an
 
 ---
 
-## 🧾 Arduino Code
-👉 [View the Sketch with Comments](https://github.com/ahmadsa08/ESP32-Light-Monitoring/blob/main/light_sensor.ino)
-
----
-
 ## 📊 Google Sheets (Live Data)
 👉 [Google Sheet Link](https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID_HERE/edit?usp=sharing)
 
