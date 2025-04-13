@@ -32,7 +32,7 @@ An IoT project that reads real-time light intensity using a Light Sensor v1.2 an
 ---
 
 ## 🔌 Circuit Diagram
-👉[Circuit Diagram](https://github.com/your-username/your-repository/raw/main/images/light-sensor-circuit-diagram.png)
+👉[Circuit Diagram](https://github.com/ahmadsa08/ESP32-Light-Monitoring/raw/main/light-sensor-circuit-diagram.png)
 
 
 ---
