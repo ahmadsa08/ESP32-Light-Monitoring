@@ -27,12 +27,13 @@ An IoT project that reads real-time light intensity using a Light Sensor v1.2 an
 
 ## 📈 Looker Studio Dashboard
 👉 [Looker Studio Dashboard Link](https://lookerstudio.google.com/reporting/9ec89e3e-cd0c-4e49-bb77-3eb3b724426a)
-)
+
 
 ---
 
 ## 🔌 Circuit Diagram
-Include a visual diagram here (Fritzing or image) showing how your sensor is connected to the ESP32.
+👉[Circuit Diagram](https://github.com/your-username/your-repository/raw/main/images/light-sensor-circuit-diagram.png)
+
 
 ---
 
