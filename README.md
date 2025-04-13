@@ -31,7 +31,8 @@ An IoT project that reads real-time light intensity using a Light Sensor v1.2 an
 ---
 
 ## 📈 Looker Studio Dashboard
-👉 [Looker Studio Dashboard Link](https://lookerstudio.google.com/reporting/YOUR_DASHBOARD_ID_HERE)
+👉 [Looker Studio Dashboard Link](https://lookerstudio.google.com/reporting/040dc270-f274-4c0e-a3cd-dde1fadf4dec
+)
 
 ---
 
