@@ -1,10 +1,12 @@
 # ESP32-Light-Monitoring
+
 This project uses an **ESP32** and a **light sensor (e.g., Light Sensor v1.2)** to measure ambient light intensity and send the data to **Google Sheets** via **Google Apps Script**. This enables real-time IoT monitoring using a simple web dashboard.
 
 ---
 
-## 💡 Arduino Code (ESP32_LightSensor.ino)
+## 💡 Arduino Code (`ESP32_LightSensor.ino`)
 
+```cpp
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
