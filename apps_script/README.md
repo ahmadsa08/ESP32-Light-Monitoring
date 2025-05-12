@@ -40,7 +40,4 @@ A Google Apps Script project that logs light sensor data and generates 24-hour f
 ## 📈 Forecast Chart
 A chart is auto-generated to compare current data with both EMA and Holt-Winters forecasts and their upper/lower bounds.
 
-## 📋 License
-See [LICENSE](./LICENSE).
 
----
