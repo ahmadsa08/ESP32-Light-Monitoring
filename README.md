@@ -37,13 +37,5 @@ An IoT project that reads real-time light intensity using a Light Sensor v1.2 an
 
 ---
 
-## 📸 Preview (Optional)
-Add screenshots or gifs of:
-- Serial monitor
-- Google Sheets logging data
-- Looker Studio charts
-
----
-
 ## ✍️ Author
 Ahmad Sa — [GitHub](https://github.com/ahmadsa08)
